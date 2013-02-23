@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheSurvey</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_begin">BEGIN</string>
+    <string name="button_exit">EXIT</string>
+    <string name="input_text">This survey should take only 10 seconds!</string>
+    <string name="title_activity_next_screen">Question 1</string>
+    <string name="question_1">Is Eclipse better than NetBeans?</string>
+    <string name="question_2">Are Macs better than PCs?</string>
+    <string name="question_3">Is Ralf a PostGraduate Student?</string>
+    <string name="rButton_yes">YES</string>
+    <string name="rButton_no">NO</string>
+    <string name="rButton_not_certain">NOT CERTAIN</string>
+    <string name="button_next">NEXT</string>
+    <string name="button_prev">PREV</string>
+    <string name="button_finish">FINISH</string>
+    <string name="title_activity_mid_screen">Question 2</string>
+    <string name="title_activity_last_screen">Question 3</string>
+    <string name="title_activity_end">TheSurvey</string>
+    <string name="end_text">Thank you for Completing this Survey.
+        Have a nice day!</string>
+    <string name="title_activity_menu">TheSurvey</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="prev">PREVIOUS</string>
+    <string name="rButton_notcertain">Don\'t Know</string>
+
+</resources>
